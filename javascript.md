@@ -4,3 +4,9 @@ git push for initial push
 
 Command save
 
+git add <filename>
+
+git commit -m "verbiage"
+
+git push origin main
+
